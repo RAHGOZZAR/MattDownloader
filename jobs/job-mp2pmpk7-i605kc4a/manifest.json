@@ -1,0 +1,12 @@
+{
+  "job_id": "job-mp2pmpk7-i605kc4a",
+  "source_url": "https://www.youtube.com/watch?v=kF-QJXhadqc",
+  "created_at_utc": "2026-05-12T14:12:47Z",
+  "mode": "single",
+  "total_size_bytes": 1023370,
+  "chunk_size_bytes": 99614720,
+  "chunk_count": 0,
+  "single_file_path": "jobs/job-mp2pmpk7-i605kc4a/file.bin",
+  "chunks_path_prefix": "jobs/job-mp2pmpk7-i605kc4a/chunks/chunk_",
+  "suggested_filename": "watch"
+}
