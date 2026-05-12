@@ -1,0 +1,12 @@
+{
+  "job_id": "job-mp2qf30g-acype845",
+  "source_url": "https://dhruvmirrorpremium0-9d786801cf0f.herokuapp.com/watch/72129/0hATD2mZpAJCskKY10in%2BkF-QJXhadqc.mp4?hash=AgADa5",
+  "created_at_utc": "2026-05-12T14:35:24Z",
+  "mode": "single",
+  "total_size_bytes": 13002,
+  "chunk_size_bytes": 99614720,
+  "chunk_count": 0,
+  "single_file_path": "jobs/job-mp2qf30g-acype845/file.bin",
+  "chunks_path_prefix": "jobs/job-mp2qf30g-acype845/chunks/chunk_",
+  "suggested_filename": "0hATD2mZpAJCskKY10in_kF-QJXhadqc.mp4"
+}
